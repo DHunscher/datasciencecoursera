@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+*.csv
+*.zip
+*.gz
+*.7z
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
